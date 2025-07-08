@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+artifacts/
+*.dll
+*.exe
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# ASP.NET & .NET Core
+project.lock.json
+project.fragment.lock.json
+ScaffoldingReadMe.txt
+wwwroot/
+
+# Entity Framework
+migrations/
+
+# Configuration
+appsettings*.json
+launchSettings.json
+
+# NuGet
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Test results
+TestResult.xml
+*.trx
+*.coverage
+*.coveragexml
+
+# Rider & VS Code
+.idea/
+.vscode/
+
+# Others
+*.dbmdl
+*.pfx
+*.publishsettings
+node_modules/
+.env
